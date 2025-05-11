@@ -1,7 +1,7 @@
 # FCSC 2024 TV Hacks 2/2
 
 ```
-Important : Les deux étapes de la série TV Hacks sont à | réaliser dans l’ordre.
+Important : Les deux étapes de la série TV Hacks sont à réaliser dans l’ordre.
 Nous vous conseillons fortement de ne pas tenter la résolution de cette épreuve 
 tant que vous n’avez pas validé la première étape.
 ```
